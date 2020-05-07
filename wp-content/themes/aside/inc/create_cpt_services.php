@@ -28,7 +28,7 @@ function create_cpt_service()
           'show_ui'             => true,
           'show_in_menu'        => true,
           'menu_position'       => 0,
-          'menu_icon'           => 'dashicons-book',  
+          'menu_icon'           => 'dashicons-book',
           'show_in_nav_menus'   => true,
           'publicly_queryable'  => true,
           'exclude_from_search' => false,
